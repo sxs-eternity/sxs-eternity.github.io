@@ -52,29 +52,6 @@ export default defineConfig({
     generateOgImages(context)
   },
   vite: {
-    resolve: {
-      alias: [
-        {
-          // Used to show the release version on navbar.
-          find: /^.*\/VPNavBarMenu\.vue$/,
-          replacement: fileURLToPath(
-            new URL('./theme/components/CustomNavBarMenu.vue', import.meta.url),
-          ),
-        },
-        {
-          find: /^.*VPNavScreenMenu\.vue$/,
-          replacement: fileURLToPath(
-            new URL('./theme/components/CustomNavScreenMenu.vue', import.meta.url),
-          ),
-        },
-        {
-          find: /^.*VPSwitchAppearance\.vue$/,
-          replacement: fileURLToPath(
-            new URL('./theme/components/CustomSwitchAppearance.vue', import.meta.url),
-          ),
-        },
-      ],
-    },
     plugins: [ElementPlus({})],
     ssr: {
       noExternal: ['element-plus'],
