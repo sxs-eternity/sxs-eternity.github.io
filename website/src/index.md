@@ -6,10 +6,10 @@ hero:
   name: Eternity
   text: Sword x Staff Guild on Battle Hymn
   tagline: Easier access to the information you need, written clearly.
-  # image:
-  #   alt: Eternity Library Tab Dark
-  #   light: /home/phone.light.webp
-  #   dark: /home/phone.dark.webp
+  image:
+    alt: Eternity Guild Emblem
+    light: /home/eternity.dark.webp
+    dark: /home/eternity.dark.webp
   actions:
     - theme: brand
       text: Guides
