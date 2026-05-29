@@ -9,7 +9,7 @@
 ### Guides and Links
 Easier access to the information you need, written clearly.
 
-[![Discord server](https://img.shields.io/discord/1509313004947247195.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/evkT9E6PaK
+[![Discord server](https://img.shields.io/discord/1509313004947247195.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/evkT9E6PaK)
 
 ## Contributing
 
@@ -17,7 +17,7 @@ Easier access to the information you need, written clearly.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-If you have any questions, [join our Discord server](https://discord.gg/evkT9E6PaK.
+If you have any questions, [join our Discord server](https://discord.gg/evkT9E6PaK)
 
 ### Repositories
 

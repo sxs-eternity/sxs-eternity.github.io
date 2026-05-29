@@ -23,7 +23,7 @@ const themeConfig: DefaultTheme.Config = {
     },
     {
       icon: 'discord',
-      link: 'https://discord.gg/V3Q7vvJJhK',
+      link: 'https://discord.gg/evkT9E6PaK',
       ariaLabel: 'Discord Server',
     },
     // {
