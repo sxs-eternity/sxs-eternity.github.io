@@ -41,6 +41,10 @@ function defaultSidebar(): DefaultTheme.SidebarItem[] {
           text: 'Getting started',
           link: '/docs/guides/getting-started',
         },
+        {
+          text: 'Seasons',
+          link: '/docs/guides/seasons',
+        },
         // {
         //   text: 'Troubleshooting',
         //   link: '/docs/guides/troubleshooting/',
