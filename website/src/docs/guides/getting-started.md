@@ -111,6 +111,44 @@ The cart is your main resource source, and a convenient passive source.
     * Has alternate sources
     * Still upgrade if you have resources and need more
 
+## Relics
+Like most mechanics, you are upgrading slots, not items, and resonance matters.
+Displayed items get an additional 20% stats, but all the others still give stats.
+Each element has its own levels and resonance.
+
+* Resonance effectively gives all non-displayed items the level of the lowest displayed.
+
+1. Hit 50% in each zone sequentially
+2. Save for upcoming zones if they're close
+3. F2P can go up to 70% for zones if they have extra after this
+    * Spenders can go up to 90%
+
+## Dungeons
+Daily dungeons are the main source of Gear and Gear Shards.
+The paid runs are worth.
+
+### Material Dungeons
+* F2P/Light spenders - 2/2/2/2 buy attempts
+* Mid spender - 4/2/4/4 buy attempts (2 on whichever you need least)
+
+## Chaos Invasion - Bi-Weekly Event
+Save all your chaos crystals. Buy **ONLY the Primal Forge**. All the way to Immortal.
+If you can't afford it, kick out the NPC and wait for next time.
+
+## Fantomon Investment
+Also see the FAQ on this.
+
+Note: The main slot is not the combat slot, they are unrelated.
+Main slot should be rarest Fantomon with best stats for you.
+
+Three rules:
+* Keep deployed Fantomons leveled evenly
+* Have one of each type (DPS, Heal, Tank) and one more of your main type
+* Invest evenly in the deployed 1 of each type, including the main, total of 3
+
+Mythic evolutions will need 3 copies total - 120 dupe shards.
+**Save 180 bond trinkets before buying a Mythic**
+
 ## See Also
 <nav to="faq_general">
 
