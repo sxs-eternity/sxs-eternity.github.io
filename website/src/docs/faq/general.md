@@ -62,13 +62,13 @@ EOG has a [good guide here](https://www.eog.gg/games/sword-x-staff/guides/compan
 ## When can I get my next class?
 * T2 lvl 44 - Cinder Ridge
 * T3 lvl 82 - Aqualis
-* T4 lvl ?? (~100?)
+* T4 lvl 106 - Loong Haven
 
 
 ## What are the locked classes?
-```
-Sorc > Archmage > Destroyer > Magister
-Sage > Arcanist > Dominator > Prophet
-Duelist > Berserker > Conqueror > Ravager
-Knight > Paladin > Guardian > Templar
-```
+| T1     | T2      | T3        | T4        | T5       |
+|--------|---------|-----------|-----------|----------|
+| Mage   | Sorc    | Archmage  | Destroyer | Magister |
+| Mage   | Sage    | Arcanist  | Dominator | Prophet  |
+| Knight | Duelist | Berserker | Conqueror | Ravager  |
+| Knight | Knight  | Paladin   | Guardian  | Templar  |
