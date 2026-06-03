@@ -1,6 +1,6 @@
 ---
 title: Seasons
-titleTemplate: Explanation on Seasons Mechanics
+titleTemplate: Guides
 description: Explanation on Seasons Mechanics
 ---
 
