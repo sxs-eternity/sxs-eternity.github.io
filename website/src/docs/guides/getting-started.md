@@ -96,6 +96,21 @@ Leveling loop:
 4. When you've maxed EXP/h, you need time
     * Use daily speed-up, temporal crystals, or AFK
 
+## Cart Upgrades
+
+The cart is your main resource source, and a convenient passive source.
+
+1. Wood + Stone
+    * Always get the materials needed for upgrades
+    * Always max
+2. Chrono Sand + Raw Ore
+    * You always need more
+3. Rolla
+    * If you're doing refreshes, or lacking
+4. Battle Essence / Basic Treats
+    * Has alternate sources
+    * Still upgrade if you have resources and need more
+
 ## See Also
 <nav to="faq_general">
 
