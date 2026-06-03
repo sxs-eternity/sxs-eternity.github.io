@@ -30,17 +30,17 @@ interface Navigation {
 
 const navigationMappings: Record<string, Navigation> = {
   // Main menus
-  // 'main_library': { name: 'Library', icon: iconMappings.bookmarkBoxOutline },
-  // 'main_updates': { name: 'Updates', icon: iconMappings.alertDecagramOutline },
-  // 'main_history': { name: 'History', icon: iconMappings.history },
+  'faq_general': { name: 'F.A.Q. General', icon: iconMappings.glasses },
+  'guides_started': { name: 'Updates', icon: iconMappings.alertDecagramOutline },
+  'guides_seasons': { name: 'Seasons', icon: iconMappings.history },
   // 'main_browse': { name: 'Browse', icon: iconMappings.compassOutline },
   // 'main_more': { name: 'More', icon: iconMappings.dotsHorizontal },
 
   // More menu
-  'data-and-storage': { name: 'Data and storage', icon: iconMappings.storage, dependsOn: 'main_more' },
-  'settings': { name: 'Settings', icon: iconMappings.cog, dependsOn: 'main_more' },
-  'about': { name: 'About', icon: iconMappings.informationOutline, dependsOn: 'main_more' },
-  'help': { name: 'Help', icon: iconMappings.helpCircleOutline, dependsOn: 'main_more' },
+  // 'data-and-storage': { name: 'Data and storage', icon: iconMappings.storage, dependsOn: 'main_more' },
+  // 'settings': { name: 'Settings', icon: iconMappings.cog, dependsOn: 'main_more' },
+  // 'about': { name: 'About', icon: iconMappings.informationOutline, dependsOn: 'main_more' },
+  // 'help': { name: 'Help', icon: iconMappings.helpCircleOutline, dependsOn: 'main_more' },
 
   // Overflow menu
   'overflow': { name: 'Overflow', icon: iconMappings.moreVert },
