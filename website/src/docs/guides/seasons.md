@@ -53,4 +53,4 @@ There's also a ranking system it compete for who gets the best gear during the s
 Key Goals:
 1. Reach SSS Rank for the season to unlock max benefits
 2. Complete all non-season levels, so everything turns green, ensuring you've invested seasonal resources into permanent bonuses as much as possible
-    * It may make sense to focus in one aspect first, going into seasonal content, like Wood/Stone in cart, so it's easier to level other stuff up later.
+    * It may make sense to focus in one aspect first, going into seasonal content, so it's easier to level other stuff up later.
