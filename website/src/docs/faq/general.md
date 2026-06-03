@@ -13,9 +13,13 @@ With the exception of companions, most of the game systems are very forgiving.
 * Slots are leveled, not the contents, so you can change your build easily
 * Resonance - Unequipped things are automatically the same level as the lowest level in the lineup
 * AFK Materials - As long as you check the game daily, you'll likely eventually pass people who spent more, who don't
-* Timegates - The major realms (Apprentice, Elite, Expert) unlock **server wide** at a certain time, usually at least 3-4 days after the first whale gets there. This gives F2P players a chance to catch up!
-* Seasons - Once you reach lvl 100, we will reset back to 100 while new content is worked on, and play in seasons. These give permanent account rewards for how far you progress, letting you be a bit stronger each time! Everyone can get max rating, the whales only get vanity titles, you can keep up even as F2P!
-    * I saw mention that it goes up from 100, to 120, so I believe the level of this will increase as new content is released
+
+## Catchup Mechanics
+* Timegates - The first three major realms (Apprentice, Elite, Expert) unlock **server wide** at a certain time, usually at least 3-4 days after the first whale gets there. This gives F2P players a chance to catch up!
+* Seasons - A sort of "Everyone resets back here" to the point new content ended. Aqualis marks the start of the first season, level 71+! I expect it to be one major realm (30 lvls) which puts it ending at lvl 100 - consistent with Moderator guides. Up to level 100, everything will be normal as it was. After, it will become a green season level!
+    * Season levels allow you to gain more power and stats, and can be turned into Primostars later for permanent character rewards that last through resets!
+    * Everyone can get max rating, the whales only get vanity titles, you can keep up even as F2P!
+    * When new content is released, we will be reset to 100, do the new content, then have more season levels
 
 ## Resonance
 ### Gear
