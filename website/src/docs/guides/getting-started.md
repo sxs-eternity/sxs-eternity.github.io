@@ -74,7 +74,27 @@ They redeem under user center, in the cube menu.
 * Tier 4 · Day 47+
     *  Loong Haven unlocks — Season 2 begins. Fourth class advancement at Lv.106 into Conqueror / Guardian / Destroyer / Dominator. Season pacing slows. Permanent currency becomes the meaningful long-term carry across the next season reset.
 
+## Map Exploration
+"Map Explorarion Is Your Real Level" - EOG
 
+There's two kinds of map exploration:
+* Goddess Statues - Main Story Quest
+    * Increases blessing level
+    * Is base level EXP/h
+    * Massive boost to EXP/h
+* Lost Goddess Statues - Side Zones
+    * Increases EXP/h by 1%
+    * This is scales with base level
+
+### This is a TOP prioritiy
+EXP/h is a permanent advantage that compounds, evened out only ever by season resets.
+
+Leveling loop:
+1. Get MSQ statues, do MSQ
+2. Hit level or realm wall
+3. Go do side areas for the extra 1% each
+4. When you've maxed EXP/h, you need time
+    * Use daily speed-up, temporal crystals, or AFK
 
 ## See Also
 <nav to="faq_general">
