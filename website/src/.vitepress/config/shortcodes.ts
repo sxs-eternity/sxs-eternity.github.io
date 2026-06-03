@@ -31,6 +31,7 @@ interface Navigation {
 const navigationMappings: Record<string, Navigation> = {
   // Main menus
   'faq_general': { name: 'F.A.Q. General', icon: iconMappings.glasses },
+  'faq_tips': { name: 'F.A.Q. Tips', icon: iconMappings.compassOutline },
   'guides_started': { name: 'Updates', icon: iconMappings.alertDecagramOutline },
   'guides_seasons': { name: 'Seasons', icon: iconMappings.history },
   // 'main_browse': { name: 'Browse', icon: iconMappings.compassOutline },

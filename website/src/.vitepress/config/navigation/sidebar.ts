@@ -12,10 +12,10 @@ function defaultSidebar(): DefaultTheme.SidebarItem[] {
       text: 'Frequently Asked Questions',
       items: [
         { text: 'General', link: '/docs/faq/general' },
-        // {
-        //   text: 'Library',
-        //   link: '/docs/faq/library',
-        // },
+        {
+          text: 'Tips',
+          link: '/docs/faq/tips',
+        },
         // {
         //   text: 'Updates',
         //   collapsed: true,
