@@ -11,6 +11,7 @@ Like many games, it's a period during which competition between players happens.
 * Gacha rolls are kept
 * If you score an SSS rank for the season, you will get the maximum Primostars, which you can use to activate Astral Pacts for permanent, rare stat bonuses!
     * The first is ATK +1%, and the second increases dungeon gear drop rate.
+    * You can check rank data at the telescope on your house!
 * This is the chance to catch up! All players can reach SSS rank!
 
 ## Level Caps
