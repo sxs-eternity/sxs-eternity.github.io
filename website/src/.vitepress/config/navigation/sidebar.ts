@@ -45,6 +45,10 @@ function defaultSidebar(): DefaultTheme.SidebarItem[] {
           text: 'Seasons',
           link: '/docs/guides/seasons',
         },
+        {
+          text: 'Guild Clash',
+          link: '/docs/guides/guild-clash',
+        },
         // {
         //   text: 'Troubleshooting',
         //   link: '/docs/guides/troubleshooting/',
