@@ -1,6 +1,6 @@
 ---
 title: Tips
-titleTemplate: Common Optimizations
+titleTemplate: Frequently Asked Questions
 description: Common Optimizations
 ---
 
