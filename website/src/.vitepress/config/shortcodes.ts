@@ -34,7 +34,8 @@ const navigationMappings: Record<string, Navigation> = {
   'faq_tips': { name: 'F.A.Q. Tips', icon: iconMappings.compassOutline },
   'guides_started': { name: 'Updates', icon: iconMappings.alertDecagramOutline },
   'guides_seasons': { name: 'Seasons', icon: iconMappings.history },
-  'guides_clash': { name: 'Seasons', icon: iconMappings.security },
+  'guides_clash': { name: 'Guild Clash', icon: iconMappings.security },
+  'guides_gems': { name: 'Gems', icon: iconMappings.queryStats },
   // 'main_browse': { name: 'Browse', icon: iconMappings.compassOutline },
   // 'main_more': { name: 'More', icon: iconMappings.dotsHorizontal },
 
