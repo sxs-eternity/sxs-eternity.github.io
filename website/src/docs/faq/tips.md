@@ -25,3 +25,5 @@ Don't use them the second you login!
 
 ## Do Tests
 Use the Test in skills to compare your DPS results, if you're doing DPS, or check how many rounds you survive against strong enemies otherwise.
+
+## Some relics can be obtained via destiny fruit in certain locations, and used to complete sets! If you're going to use them anyway, check your set completion and see if there's somewhere worth going!
